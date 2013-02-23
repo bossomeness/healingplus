@@ -1,0 +1,18 @@
+main: me.bossomeness.healingplus.Main
+version: 1.3.3
+name: HealingPlus
+author: bossomeness
+description: Adjust the health of players in various ways.
+commands:
+    heal:
+        description: Heal a player.
+    halfheal:
+        description: Halfway heal a player.
+    kill:
+        description: Kill a player.
+    health:
+        description: Set a player's health to a certain amount.
+    activatehelmet:
+        description: Activate a/the player's Regeneration Helmet.
+    heal:
+        description: Display the plugin's help menu.
